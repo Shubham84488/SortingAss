@@ -1,0 +1,7 @@
+In a selection sort algorithm, the number of iterations required to sort an array in descending order 
+depends on the number of elements in the array. Selection sort works by repeatedly selecting the minimum 
+(or maximum) element from the unsorted portion of the array and swapping it with the element in the correct position.
+
+The number of iterations for a selection sort can be calculated using the formula:
+
+Number of iterations = n * (n - 1) / 2
